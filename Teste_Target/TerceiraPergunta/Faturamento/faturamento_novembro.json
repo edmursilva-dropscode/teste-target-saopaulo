@@ -1,0 +1,152 @@
+[
+  {
+    "Dia": 1,
+    "ValorFaturamento": 200000.0,
+    "Diasemana": "sexta-feira"
+  },
+  {
+    "Dia": 2,
+    "ValorFaturamento": 0.0,
+    "Diasemana": "sábado"
+  },
+  {
+    "Dia": 3,
+    "ValorFaturamento": 150000.0,
+    "Diasemana": "domingo"
+  },
+  {
+    "Dia": 4,
+    "ValorFaturamento": 0.0,
+    "Diasemana": "segunda-feira"
+  },
+  {
+    "Dia": 5,
+    "ValorFaturamento": 300000.0,
+    "Diasemana": "terça-feira"
+  },
+  {
+    "Dia": 6,
+    "ValorFaturamento": 0.0,
+    "Diasemana": "quarta-feira"
+  },
+  {
+    "Dia": 7,
+    "ValorFaturamento": 0.0,
+    "Diasemana": "quinta-feira"
+  },
+  {
+    "Dia": 8,
+    "ValorFaturamento": 100000.0,
+    "Diasemana": "sexta-feira"
+  },
+  {
+    "Dia": 9,
+    "ValorFaturamento": 0.0,
+    "Diasemana": "sábado"
+  },
+  {
+    "Dia": 10,
+    "ValorFaturamento": 200000.0,
+    "Diasemana": "domingo"
+  },
+  {
+    "Dia": 11,
+    "ValorFaturamento": 50000.0,
+    "Diasemana": "segunda-feira"
+  },
+  {
+    "Dia": 12,
+    "ValorFaturamento": 0.0,
+    "Diasemana": "terça-feira"
+  },
+  {
+    "Dia": 13,
+    "ValorFaturamento": 300000.0,
+    "Diasemana": "quarta-feira"
+  },
+  {
+    "Dia": 14,
+    "ValorFaturamento": 0.0,
+    "Diasemana": "quinta-feira"
+  },
+  {
+    "Dia": 15,
+    "ValorFaturamento": 0.0,
+    "Diasemana": "sexta-feira"
+  },
+  {
+    "Dia": 16,
+    "ValorFaturamento": 400000.0,
+    "Diasemana": "sábado"
+  },
+  {
+    "Dia": 17,
+    "ValorFaturamento": 0.0,
+    "Diasemana": "domingo"
+  },
+  {
+    "Dia": 18,
+    "ValorFaturamento": 250000.0,
+    "Diasemana": "segunda-feira"
+  },
+  {
+    "Dia": 19,
+    "ValorFaturamento": 0.0,
+    "Diasemana": "terça-feira"
+  },
+  {
+    "Dia": 20,
+    "ValorFaturamento": 0.0,
+    "Diasemana": "quarta-feira"
+  },
+  {
+    "Dia": 21,
+    "ValorFaturamento": 0.0,
+    "Diasemana": "quinta-feira-feriado"
+  },
+  {
+    "Dia": 22,
+    "ValorFaturamento": 0.0,
+    "Diasemana": "sexta-feira"
+  },
+  {
+    "Dia": 23,
+    "ValorFaturamento": 50000.0,
+    "Diasemana": "sábado"
+  },
+  {
+    "Dia": 24,
+    "ValorFaturamento": 60000.0,
+    "Diasemana": "domingo"
+  },
+  {
+    "Dia": 25,
+    "ValorFaturamento": 0.0,
+    "Diasemana": "segunda-feira"
+  },
+  {
+    "Dia": 26,
+    "ValorFaturamento": 0.0,
+    "Diasemana": "terça-feira"
+  },
+  {
+    "Dia": 27,
+    "ValorFaturamento": 300000.0,
+    "Diasemana": "quarta-feira"
+  },
+  {
+    "Dia": 28,
+    "ValorFaturamento": 0.0,
+    "Diasemana": "quinta-feira"
+  },
+  {
+    "Dia": 29,
+    "ValorFaturamento": 200000.0,
+    "Diasemana": "sexta-feira"
+  },
+  {
+    "Dia": 30,
+    "ValorFaturamento": 0.0,
+    "Diasemana": "sábado"
+  }
+]

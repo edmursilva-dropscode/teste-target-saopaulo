@@ -1,0 +1,10 @@
+C:\Edmur\Desenvolvimento\Teste_Para_Emprego\Teste_Target\Teste_Target\TerceiraPergunta\bin\Debug\TerceiraPergunta.exe.config
+C:\Edmur\Desenvolvimento\Teste_Para_Emprego\Teste_Target\Teste_Target\TerceiraPergunta\bin\Debug\TerceiraPergunta.exe
+C:\Edmur\Desenvolvimento\Teste_Para_Emprego\Teste_Target\Teste_Target\TerceiraPergunta\bin\Debug\TerceiraPergunta.pdb
+C:\Edmur\Desenvolvimento\Teste_Para_Emprego\Teste_Target\Teste_Target\TerceiraPergunta\bin\Debug\Newtonsoft.Json.dll
+C:\Edmur\Desenvolvimento\Teste_Para_Emprego\Teste_Target\Teste_Target\TerceiraPergunta\bin\Debug\Newtonsoft.Json.xml
+C:\Edmur\Desenvolvimento\Teste_Para_Emprego\Teste_Target\Teste_Target\TerceiraPergunta\obj\Debug\TerceiraPergunta.csproj.AssemblyReference.cache
+C:\Edmur\Desenvolvimento\Teste_Para_Emprego\Teste_Target\Teste_Target\TerceiraPergunta\obj\Debug\TerceiraPergunta.csproj.CoreCompileInputs.cache
+C:\Edmur\Desenvolvimento\Teste_Para_Emprego\Teste_Target\Teste_Target\TerceiraPergunta\obj\Debug\Terceira.41829459.Up2Date
+C:\Edmur\Desenvolvimento\Teste_Para_Emprego\Teste_Target\Teste_Target\TerceiraPergunta\obj\Debug\TerceiraPergunta.exe
+C:\Edmur\Desenvolvimento\Teste_Para_Emprego\Teste_Target\Teste_Target\TerceiraPergunta\obj\Debug\TerceiraPergunta.pdb
