@@ -2,12 +2,10 @@
 
 Este documento contém o teste técnico proposto para a etapa de estágio. O objetivo é avaliar suas habilidades técnicas através de uma série de exercícios. Abaixo estão os detalhes da primeira questão proposta.
 
-
 ## Questão 1: Cálculo da Soma
 
 **Descrição:**
 Observe o trecho de código abaixo e determine o valor final da variável `SOMA`.
-```c
 int INDICE = 13, SOMA = 0, K = 0;
 while (K < INDICE)
 {
@@ -15,7 +13,6 @@ while (K < INDICE)
     SOMA = SOMA + K;
 }
 printf("%d", SOMA);
-
 
 
 ## Questão 2: Sequência de Fibonacci
@@ -27,7 +24,6 @@ Dada a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor semp
 - Verificar a presença de um número específico na sequência.
 **Nota:**
 Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código.
-
 
 
 ## Questão 3: Análise de Faturamento
@@ -45,7 +41,6 @@ a) Usar o JSON ou XML disponível como fonte dos dados do faturamento mensal;
 b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média.
 
 
-
 ## Questão 4: Percentual de Representação por Estado
 
 **Descrição:**
@@ -61,7 +56,6 @@ Escreva um programa na linguagem de sua escolha onde calcule o percentual de rep
 - Calcular o percentual de representação de cada estado no faturamento total mensal.
 
 
-
 ## Questão 5: Inversão de String
 
 **Descrição:**
@@ -70,11 +64,9 @@ Escreva um programa que inverta os caracteres de uma string.
 - Implementar a lógica para inverter os caracteres de uma string.
 
 
-
 ### Ferramenta utilizada
 . IDE - Visual Studio 2022,
 . C#
-
 
 <br>
 <h1 align="center">
